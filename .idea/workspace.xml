@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49e16007-228b-48d5-9da1-a8b9752ec460" name="Changes" comment="third commit (Transitions between pages)">
-      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_product_page.py" afterDir="false" />
+    <list default="true" id="49e16007-228b-48d5-9da1-a8b9752ec460" name="Changes" comment="fourth commit (find bug)">
+      <change afterPath="$PROJECT_DIR$/pages/basket_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/locators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_product_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708966727871</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fourth commit (find bug)">
+      <option name="closed" value="true" />
+      <created>1709058069444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709058069444</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +127,7 @@
     <MESSAGE value="second commit (Checking the element on the page)" />
     <MESSAGE value="third commit (realization LoginPage)" />
     <MESSAGE value="third commit (Transitions between pages)" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit (Transitions between pages)" />
+    <MESSAGE value="fourth commit (find bug)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit (find bug)" />
   </component>
 </project>
