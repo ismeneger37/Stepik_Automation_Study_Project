@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49e16007-228b-48d5-9da1-a8b9752ec460" name="Changes" comment="fourth commit (find bug)">
-      <change afterPath="$PROJECT_DIR$/pages/basket_page.py" afterDir="false" />
+    <list default="true" id="49e16007-228b-48d5-9da1-a8b9752ec460" name="Changes" comment="fifth commit (inheritance and negative checks)">
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/basket_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/basket_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_main_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_product_page.py" afterDir="false" />
     </list>
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709058069444</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fifth commit (inheritance and negative checks)">
+      <option name="closed" value="true" />
+      <created>1709138904940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709138904940</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +136,7 @@
     <MESSAGE value="third commit (realization LoginPage)" />
     <MESSAGE value="third commit (Transitions between pages)" />
     <MESSAGE value="fourth commit (find bug)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourth commit (find bug)" />
+    <MESSAGE value="fifth commit (inheritance and negative checks)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifth commit (inheritance and negative checks)" />
   </component>
 </project>
